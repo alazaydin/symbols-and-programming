@@ -1,7 +1,8 @@
 # COGS 502 - Symbols and Programming
 Informatics Institute, METU
 
-Monday, 08:40-11:30
+Monday, 14:40-17:30
+
 
 [Umut Özge](https://umutozge.github.io)  
 
@@ -10,25 +11,24 @@ Monday, 08:40-11:30
 
 **Catalog Description:** Fundamentals of symbolic computation; fundamental computer programming concepts and skills; iteration; recursion; applicative and functional programming; basic data structures; Common LISP
 
-###  Weekly Schedule (Fall 2022 -- Tentative)
+###  Weekly Schedule (Fall 2023)
 
-|Week| Date   | Content | Meeting | Assignment | Reading |
-:--- |:-------|:--------|:--------|:-----------|:--------|
-1    | Oct 3  |First meeting |         |            |         |
-2    | Oct 10 |02-08 |[9:15]()| `emacs` with `SLIME`| Sec. 1 upto item 21 |
-3    | Oct 17 |09-15 |[9:15]()| Exx 1.1-4, 2.7| Sec. 1, 2 |
-4    | Oct 24 |17-24 |[9:15]()|2.9-13  | Sec. 3 |
-5    | Oct 31|24-28 |[9:15]()|3.1-5  | Sec. 3 |
-6    | Nov 7| 30-36 |[9:15]()| |  Sec. 4|
-7    | Nov 14| 38-50 |[9:15]()| | |
-8    | Nov 21| Midterm |[9:15]()|  | Sec. 4 |
-9    | Nov 28| || |  |
-10   | Dec 5|52-56 |[9:15]() |    | Sec. 5, 6 |
-11   | Dec 12|58-62 |[9:15]() |  | Sec. 7 |
-12   | Dec 19|64-68 |[9:15]() | | Sec. 7 |
-13   | Dec 26|70-74 |[9:15]() | | Sec. 7 |
-14   | Jan 2|76-78  |[9:15]() |  | Sec. 8 (optional) |
-
+|Week| Date   | Content | Assignment | Reading |
+:--- |:-------|:--------|:-----------|:--------|
+1    | Oct 2  |First meeting |         |            |         |
+2    | Oct 9 |02-08 | `emacs` with `SLIME`| Sec. 1 upto item 21 |
+3    | Oct 16 |09-15|Exx. 1.1-3 | Sec. 1 and 2 |
+4    | Oct 23 |17-23|Exx. 2.1-2|Sec. 3|
+5    | Oct 30  |24-26|Ex. 3.1|Sec. 3|
+6    | Nov 6|28|Ex. 3.16|Sec. 4|
+7    | Nov 13|30-36| Ex. 4.15 | |
+8    | Nov 20|38-50|Ex. 4.40||
+9    | Nov 27|52-56|Ex. 4.41, 4.57| Sec. 5 and 6 |
+10   | Dec 4||| |
+11   | Dec 11|60-68 |7.15  | Sec. 7 |
+12   | Dec 18|70-74|see `odtuclass forum`| |
+13   | Dec 25||| |
+14   | Jan 1 |Holiday|see `odtuclass forum` (assignment due 12 Jan) | |
 
 
 ### Videos (please download if your browser can't open the video)
@@ -87,7 +87,9 @@ Monday, 08:40-11:30
 
 * [Lecture notes](notes/cogs502-lecture-notes.pdf)
 * [Videos](http://lfcs.ii.metu.edu.tr/cr/cogs502/vid/)
-* [Question-Answer Sheet](notes/question-answer-sheet.md).
+* [Question-Answer Sheet](notes/question-answer-sheet.md)
+* [Setup Instructions for Programming Environment](notes/programming-environment.md)
+* [Sample solutions](code/sample-solutions.lisp)
 * Reference books:  
 	Graham, P. (1996). ANSI Common Lisp. Prentice Hall Inc., NJ.  
 	Touretzky, D. S. (1990). COMMON LISP: A Gentle Introduction to Functional Programming. Benjamin/Cummings Publisihing Co., CA.  
@@ -100,16 +102,14 @@ Monday, 08:40-11:30
 
 ### Requirements
 
-* Weekly assignments (40%):
-* Midterm exam (30%, in class)
-* Final exam (30%, in class)
+* Short quizes (30%, in class)
+* Weekly assignments (30%, "at home")
+* Final exam (40%, in class)
+
 
 ### Attendance and late submission policies
 
-* Attendance is not graded or required.
-* If you think you can succeed in this course without help from us, you do not need to attend classes.
-* But if you think otherwise, you should come -- only attenders can get help outside of class hours (e.g.\ office hours, forum questions, etc.)
-* No late submissions, except in case of a medical issue proved by a medical report.
+* No late submissions, except in case of a medical issue proved by a medical report. The report must include the day before the submission deadline. The new deadline will be 2 + the day your report says you can start working, 23:59.
 
 ### Special assistance
 
