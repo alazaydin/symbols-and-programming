@@ -1,6 +1,9 @@
 # COGS 502 - Symbols and Programming
 Informatics Institute, METU
 
+**THIS COURSE IS NO LONGER THAUGHT IN COMMON LISP. PLEASE SEE COGS502 INSTEAD**
+
+
 Monday, 14:40-17:30
 
 
